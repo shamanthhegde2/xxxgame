@@ -1,1 +1,1 @@
-# xxxgame
+# triplex game
